@@ -38,4 +38,6 @@
         font-weight: 700;
     }
 }
-
+.lista-menu{
+    display: none;
+}
